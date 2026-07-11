@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#ece7df"/>
+  <g opacity="0.5">
+    <circle cx="1000" cy="140" r="220" fill="#e3efeb"/>
+    <circle cx="150" cy="520" r="160" fill="#f2eee7"/>
+  </g>
+  <g transform="translate(96,150)">
+    <rect x="0" y="0" width="120" height="120" rx="30" fill="#f7f4ee"/>
+    <path d="M60 100s-32-20-42.7-41.3C10 45 17.5 30 32 30c8 0 14 4.5 17.6 10.4C53 34.5 60 30 68 30c14.5 0 22 15 15 27.7C72 80 60 100 60 100z" fill="#4f9384" transform="translate(-1,-1) scale(1.02)"/>
+  </g>
+  <text x="240" y="228" font-family="Manrope, Segoe UI, sans-serif" font-size="86" font-weight="800" fill="#2f2a24">AIVITA<tspan fill="#4f9384">.uz</tspan></text>
+  <text x="98" y="360" font-family="Manrope, Segoe UI, sans-serif" font-size="52" font-weight="700" fill="#2f2a24">Медицина, которая всегда с вами</text>
+  <text x="98" y="430" font-family="Manrope, Segoe UI, sans-serif" font-size="32" font-weight="500" fill="#6a6157">AI-чекап · медкарта · проверка лекарств · врачи онлайн</text>
+  <g font-family="Manrope, Segoe UI, sans-serif" font-weight="700" fill="#3c7568" font-size="30">
+    <rect x="98" y="486" width="180" height="64" rx="18" fill="#f7f4ee"/><text x="120" y="528">60 секунд</text>
+    <rect x="298" y="486" width="220" height="64" rx="18" fill="#f7f4ee"/><text x="320" y="528">14 регионов</text>
+    <rect x="538" y="486" width="150" height="64" rx="18" fill="#f7f4ee"/><text x="560" y="528">3 языка</text>
+  </g>
+</svg>
