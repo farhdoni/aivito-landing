@@ -371,4 +371,60 @@
     <loc>https://aivita.uz/doctors/urolog/</loc>
     <lastmod>2026-07-11</lastmod>
   </url>
+  <url>
+    <loc>https://aivita.uz/medical-tourism/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/medical-tourism/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/medical-tourism/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/medical-tourism/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/medical-tourism/dental/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/medical-tourism/dental/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/medical-tourism/dental/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/medical-tourism/dental/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/medical-tourism/checkup/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/medical-tourism/checkup/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/medical-tourism/checkup/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/medical-tourism/checkup/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/medical-tourism/how-it-works/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/medical-tourism/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/medical-tourism/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/medical-tourism/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/en/medical-tourism/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/medical-tourism/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/medical-tourism/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/medical-tourism/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/en/medical-tourism/dental/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/medical-tourism/dental/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/medical-tourism/dental/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/medical-tourism/dental/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/en/medical-tourism/checkup/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/medical-tourism/checkup/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/medical-tourism/checkup/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/medical-tourism/checkup/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/en/medical-tourism/how-it-works/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/medical-tourism/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/medical-tourism/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/medical-tourism/how-it-works/"/>
+  </url>
 </urlset>
