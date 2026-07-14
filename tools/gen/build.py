@@ -70,7 +70,22 @@ def build_llms():
 
 ## Для бизнеса
 - MedSoft — медицинская информационная система (МИС) для клиник: {DOMAIN}/medsoft/
-- О компании и экосистеме: {DOMAIN}/about/
+  (малым клиникам {DOMAIN}/medsoft/small/, сетям {DOMAIN}/medsoft/network/,
+  стоматологии {DOMAIN}/medsoft/stomatologiya/, интеграция {DOMAIN}/medsoft/integration/)
+- О компании и экосистеме (AIVITA + MedSoft + AIVITA Beauty): {DOMAIN}/about/
+
+## Узбекская версия (O‘zbekcha)
+- Bosh sahifa: {DOMAIN}/uz/
+- Imkoniyatlar: {DOMAIN}/uz/features/
+- Hududlar: {DOMAIN}/uz/regions/
+- Blog: {DOMAIN}/uz/blog/
+- Biz haqimizda: {DOMAIN}/uz/about/
+
+## English version
+- Home: {DOMAIN}/en/
+- Features: {DOMAIN}/en/features/
+- Medical tourism in Uzbekistan: {DOMAIN}/en/medical-tourism/
+- About: {DOMAIN}/en/about/
 
 ## Факты
 - AI-чекап занимает около 60 секунд и оценивает 5 систем организма.

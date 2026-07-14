@@ -120,10 +120,10 @@ muvozanatli ovqatlanish normal vaznni ushlab turishga yordam beradi, chekishdan 
 kamaytiradi.</p>
 
 <h2>Nimadan boshlash kerak</h2>
-<p>Hammasini birdan o‘zgartirish shart emas. Bitta odatni tanlang: masalan,
-<a href="/uz/blog/skolko-shagov-v-den/">kunlik yurishdan</a> boshlang yoki
-<a href="/uz/blog/son-i-zdorovie/">uyqu rejimini</a> yo‘lga qo‘ying. Bir necha haftadan so‘ng
-keyingisini qo‘shing. Ko‘rsatkichlar dinamikasini kuzating.</p>
+<p>Hammasini birdan o‘zgartirish shart emas. Bitta odatni tanlang: masalan, kunlik yurishdan
+boshlang yoki uyqu rejimini yo‘lga qo‘ying. Bir necha haftadan so‘ng keyingisini qo‘shing.
+Ko‘rsatkichlar dinamikasini <a href="/uz/features/monitoring/">monitoringda</a> kuzating —
+shunda harakatlaringiz natija berayotganini ko‘rasiz.</p>
 
 <h2>Muntazam kuzatuvning roli</h2>
 <p>Bir martalik o‘lchov kam narsa aytadi — dinamika muhim. Bosim, puls, uyqu va faollikni vaqt bo‘yicha
@@ -137,8 +137,8 @@ yagona <a href="/uz/features/medcard/">kundalikda</a> jamlashga yordam beradi.</
 ("Onlayn baholar aniqmi?", "Oddiy baholar mo‘ljal beradi, tibbiy tashxis emas. Aniq manzara uchun tekshiruv va shifokor bilan suhbat kerak."),
 ("Taraqqiyotni qanday kuzatish kerak?", "Ko‘rsatkichlar dinamikasini vaqt bo‘yicha kuzating. O‘zgarishlar aynan dinamikada ko‘rinadi, bir martalik o‘lchovda emas."),
 ],
-"related": [("Sog‘lom turmush tarzini qanday boshlash", "/uz/blog/kak-nachat-zozh/"),
-            ("Uyqu va sog‘liq", "/uz/blog/son-i-zdorovie/"),
+"related": [("Elektron tibbiy karta: nega kerak", "/uz/blog/elektronnaya-medkarta/"),
+            ("Bosimni qanday to‘g‘ri o‘lchash", "/uz/blog/kak-izmerit-davlenie/"),
             ("Sog‘liq monitoringi", "/uz/features/monitoring/")],
 },
 {

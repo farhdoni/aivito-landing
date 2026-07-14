@@ -31,7 +31,22 @@
 
 ## Для бизнеса
 - MedSoft — медицинская информационная система (МИС) для клиник: https://aivita.uz/medsoft/
-- О компании и экосистеме: https://aivita.uz/about/
+  (малым клиникам https://aivita.uz/medsoft/small/, сетям https://aivita.uz/medsoft/network/,
+  стоматологии https://aivita.uz/medsoft/stomatologiya/, интеграция https://aivita.uz/medsoft/integration/)
+- О компании и экосистеме (AIVITA + MedSoft + AIVITA Beauty): https://aivita.uz/about/
+
+## Узбекская версия (O‘zbekcha)
+- Bosh sahifa: https://aivita.uz/uz/
+- Imkoniyatlar: https://aivita.uz/uz/features/
+- Hududlar: https://aivita.uz/uz/regions/
+- Blog: https://aivita.uz/uz/blog/
+- Biz haqimizda: https://aivita.uz/uz/about/
+
+## English version
+- Home: https://aivita.uz/en/
+- Features: https://aivita.uz/en/features/
+- Medical tourism in Uzbekistan: https://aivita.uz/en/medical-tourism/
+- About: https://aivita.uz/en/about/
 
 ## Факты
 - AI-чекап занимает около 60 секунд и оценивает 5 систем организма.
