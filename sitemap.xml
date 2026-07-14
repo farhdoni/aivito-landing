@@ -8,4 +8,60 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/"/>
   </url>
+  <url>
+    <loc>https://aivita.uz/features/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/features/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://aivita.uz/uz/features/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/features/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/features/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/features/ai-checkup/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/features/ai-checkup/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://aivita.uz/uz/features/ai-checkup/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/features/ai-checkup/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/features/ai-checkup/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/features/drug-checker/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/features/drug-checker/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://aivita.uz/uz/features/drug-checker/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/features/drug-checker/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/features/drug-checker/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/features/medcard/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/features/medcard/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://aivita.uz/uz/features/medcard/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/features/medcard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/features/medcard/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/features/doctors/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/features/doctors/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://aivita.uz/uz/features/doctors/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/features/doctors/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/features/doctors/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/features/sos/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/features/sos/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://aivita.uz/uz/features/sos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/features/sos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/features/sos/"/>
+  </url>
+  <url>
+    <loc>https://aivita.uz/features/monitoring/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/features/monitoring/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://aivita.uz/uz/features/monitoring/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/features/monitoring/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/features/monitoring/"/>
+  </url>
 </urlset>

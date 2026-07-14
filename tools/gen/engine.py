@@ -160,6 +160,20 @@ def _t(lang, key):
     return UI.get(lang, UI["ru"])[key]
 
 
+def alts(path, langs=("ru", "uz", "en")):
+    """Строит словарь hreflang-альтернатов для набора языков.
+    path='features/ai-checkup' → {'ru':'/features/ai-checkup/','uz':'/uz/features/ai-checkup/',...}
+    path='' → языковые корни."""
+    p = path.strip("/")
+    m = {}
+    for lang in langs:
+        if lang == "ru":
+            m["ru"] = ("/" + p + "/") if p else "/"
+        else:
+            m[lang] = (f"/{lang}/" + p + "/") if p else f"/{lang}/"
+    return m
+
+
 def strip_tags(s: str) -> str:
     return re.sub(r"<[^>]+>", " ", s)
 
