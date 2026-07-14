@@ -1,0 +1,61 @@
+# AIVITA — llms.txt
+# https://aivita.uz
+
+> AIVITA — цифровая экосистема заботы о здоровье в Узбекистане. Помогает пройти
+> AI-чекап организма, вести электронную медкарту, проверять совместимость лекарств,
+> отслеживать показатели здоровья с умных часов и записываться к врачам онлайн.
+> Интерфейс и контент доступны на трёх языках: русском (/), узбекском (/uz/) и
+> английском (/en/). Часть экосистемы: AIVITA (пациенты), MedSoft (МИС для клиник),
+> AIVITA Beauty (салоны красоты).
+
+## Языки
+- Русский — корень сайта: https://aivita.uz/
+- O‘zbekcha (lotin) — https://aivita.uz/uz/
+- English — https://aivita.uz/en/
+
+## Возможности (Features)
+- AI-чекап организма онлайн: https://aivita.uz/features/ai-checkup/
+- Проверка совместимости лекарств: https://aivita.uz/features/drug-checker/
+- Электронная медкарта: https://aivita.uz/features/medcard/
+- Врачи онлайн (телемедицина): https://aivita.uz/features/doctors/
+- SOS-помощь: https://aivita.uz/features/sos/
+- Мониторинг здоровья (умные часы, браслеты): https://aivita.uz/features/monitoring/
+
+## Разделы
+- Блог о здоровье: https://aivita.uz/blog/
+- Здоровый образ жизни (хаб): https://aivita.uz/health/
+- Врачи по специальностям: https://aivita.uz/doctors/
+- Регионы Узбекистана: https://aivita.uz/regions/
+- Для мам / семьи / врачей: https://aivita.uz/for/moms/
+- Медицинский туризм в Узбекистане: https://aivita.uz/medical-tourism/ (EN: https://aivita.uz/en/medical-tourism/)
+
+## Для бизнеса
+- MedSoft — медицинская информационная система (МИС) для клиник: https://aivita.uz/medsoft/
+  (малым клиникам https://aivita.uz/medsoft/small/, сетям https://aivita.uz/medsoft/network/,
+  стоматологии https://aivita.uz/medsoft/stomatologiya/, интеграция https://aivita.uz/medsoft/integration/)
+- О компании и экосистеме (AIVITA + MedSoft + AIVITA Beauty): https://aivita.uz/about/
+
+## Узбекская версия (O‘zbekcha)
+- Bosh sahifa: https://aivita.uz/uz/
+- Imkoniyatlar: https://aivita.uz/uz/features/
+- Hududlar: https://aivita.uz/uz/regions/
+- Blog: https://aivita.uz/uz/blog/
+- Biz haqimizda: https://aivita.uz/uz/about/
+
+## English version
+- Home: https://aivita.uz/en/
+- Features: https://aivita.uz/en/features/
+- Medical tourism in Uzbekistan: https://aivita.uz/en/medical-tourism/
+- About: https://aivita.uz/en/about/
+
+## Факты
+- AI-чекап занимает около 60 секунд и оценивает 5 систем организма.
+- Каталог: 250+ врачей, покрытие — 14 регионов Узбекистана.
+- Телемедицина: врач из любого региона доступен онлайн.
+
+## Дисклеймер
+Контент AIVITA носит справочный характер и не заменяет консультацию врача.
+Платформа не ставит диагнозы и не назначает лечение.
+
+## Sitemap
+https://aivita.uz/sitemap.xml
