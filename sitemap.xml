@@ -327,4 +327,48 @@
     <xhtml:link rel="alternate" hreflang="uz" href="https://aivita.uz/uz/regions/syrdarya/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/regions/syrdarya/"/>
   </url>
+  <url>
+    <loc>https://aivita.uz/doctors/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/terapevt/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/pediatr/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/ginekolog/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/kardiolog/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/nevrolog/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/dermatolog/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/endokrinolog/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/stomatolog/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/kosmetolog/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/doctors/urolog/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
 </urlset>
