@@ -447,4 +447,16 @@
     <loc>https://aivita.uz/medsoft/integration/</loc>
     <lastmod>2026-07-11</lastmod>
   </url>
+  <url>
+    <loc>https://aivita.uz/health/</loc>
+    <lastmod>2026-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://aivita.uz/about/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://aivita.uz/about/"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://aivita.uz/uz/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aivita.uz/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aivita.uz/about/"/>
+  </url>
 </urlset>
