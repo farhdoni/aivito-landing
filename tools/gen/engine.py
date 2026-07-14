@@ -38,10 +38,9 @@ NAV = {
     ],
     "uz": [
         ("Imkoniyatlar", "/uz/features/"),
+        ("Kimlar uchun", "/uz/for/family/"),
         ("Blog", "/uz/blog/"),
         ("Hududlar", "/uz/regions/"),
-        ("Shifokorlar", "/uz/doctors/"),
-        ("MedSoft", "/uz/medsoft/"),
         ("Biz haqimizda", "/uz/about/"),
     ],
     "en": [
@@ -84,15 +83,19 @@ FOOTER = {
             ("AI-checkup", "/uz/features/ai-checkup/"),
             ("Dori mosligini tekshirish", "/uz/features/drug-checker/"),
             ("Tibbiy karta", "/uz/features/medcard/"),
+            ("Sog‘liq monitoringi", "/uz/features/monitoring/"),
+            ("Onlayn shifokorlar", "/uz/features/doctors/"),
         ]),
         ("Bo‘limlar", [
             ("Blog", "/uz/blog/"),
-            ("Shifokorlar", "/uz/doctors/"),
             ("Hududlar", "/uz/regions/"),
+            ("Onalar uchun", "/uz/for/moms/"),
+            ("Oila uchun", "/uz/for/family/"),
         ]),
-        ("Biznes", [
-            ("MedSoft", "/uz/medsoft/"),
+        ("AIVITA", [
             ("Biz haqimizda", "/uz/about/"),
+            ("Русский", "/"),
+            ("English", "/en/"),
         ]),
     ],
     "en": [
